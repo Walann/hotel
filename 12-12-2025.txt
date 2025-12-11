@@ -1,0 +1,3 @@
+TOTAL_REVENUE=2270
+GuestName,RoomNumber,RoomType,StayDate,Nights,CheckInHour,PricePerNight,TotalCost
+Prof.Dom,301,Penthouse,12-12-2025,2,10,1135,2270
